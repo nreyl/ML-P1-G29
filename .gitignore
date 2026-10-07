@@ -1,0 +1,17 @@
+# Material del curso
+recursos/
+
+# Archivos de configuración del asistente
+AGENTS.md
+CLAUDE.md
+.claude/
+
+# Sistema
+.DS_Store
+
+# Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Entorno virtual
+.venv/
